@@ -29,6 +29,19 @@
  
 </td><td>
 
+### DjangoCon US 2023 Recap
+
+</td></tr>
+
+
+<table>
+
+<tr><td width="30%">
+
+![Slide 1](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_1.jpg)
+ 
+</td><td>
+
 ### About Me
  
 * I am a Python/Django developer at JPMorgan Chase & Co.
@@ -47,7 +60,7 @@ DEFNA (Django Events Foundation North America)
 
 <tr><td width="30%">
 
-![Slide 2](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_1.jpg)
+![Slide 2](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_2.jpg)
 
 </td><td>
 
@@ -64,7 +77,7 @@ DEFNA (Django Events Foundation North America)
 
 <tr><td width="30%">
 
-![Slide 3](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_2.jpg)
+![Slide 3](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_3.jpg)
 
 </td><td>
 
@@ -82,7 +95,7 @@ Held in October
 
 <tr><td width="30%">
 
-![Slide 4](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_3.jpg)
+![Slide 4](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_4.jpg)
 
 </td><td>
 
@@ -99,7 +112,7 @@ Held in October
 
 <tr><td width="30%">
 
-![Slide 5](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_4.jpg)
+![Slide 5](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_5.jpg)
 
 </td><td>
 
@@ -117,7 +130,7 @@ Sunday afternoon: Django Girls
 
 <tr><td width="30%">
 
-![Slide 6](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_5.jpg)
+![Slide 6](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_6.jpg)
 
 </td><td>
  
@@ -136,7 +149,7 @@ Sunday night: Django Social
 
 <tr><td width="30%">
 
-![Slide 7](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_6.jpg)
+![Slide 7](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_7.jpg)
 
 </td><td>
 
@@ -154,7 +167,7 @@ Sunday night: Django Social
 
 <tr><td width="30%">
 
-![Slide 8](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_7.jpg)
+![Slide 8](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_8.jpg)
 
 </td><td>
 
@@ -173,7 +186,7 @@ Key Takeaways
 
 <tr><td width="30%">
 
-![Slide 9](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_8.jpg)
+![Slide 9](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_9.jpg)
 
 </td><td>
 
@@ -191,7 +204,7 @@ Key Takeaways
 
 <tr><td width="30%">
 
-![Slide 10](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_9.jpg)
+![Slide 10](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_10.jpg)
 
 </td><td>
 
@@ -210,7 +223,7 @@ Key Takeaways
 
 <tr><td width="30%">
 
-![Slide 11](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_10.jpg)
+![Slide 11](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_11.jpg)
 
 </td><td>
 
@@ -229,7 +242,7 @@ Common theme that works
 
 <tr><td width="30%">
 
-![Slide 12](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_11.jpg)
+![Slide 12](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_12.jpg)
 
 </td><td>
 
@@ -248,7 +261,7 @@ Key Takeaways
 
 <tr><td width="30%">
 
-![Slide 13](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_12.jpg)
+![Slide 13](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_13.jpg)
 
 </td><td>
 
@@ -267,7 +280,7 @@ Key Takeaway
 
 <tr><td width="30%">
 
-![Slide 14](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_13.jpg)
+![Slide 14](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_14.jpg)
 
 </td><td>
 
@@ -287,7 +300,7 @@ Key Takeaways
 
 <tr><td width="30%">
 
-![Slide 15](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_14.jpg)
+![Slide 15](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_15.jpg)
 
 </td><td>
 
@@ -306,7 +319,7 @@ Key Takeaways
 
 <tr><td width="30%">
 
-![Slide 16](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_15.jpg)
+![Slide 16](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_16.jpg)
 
 </td><td>
 
@@ -325,7 +338,7 @@ Key Takeaways
 
 <tr><td width="30%">
 
-![Slide 17](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_16.jpg)
+![Slide 17](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_17.jpg)
 
 </td><td>
 
@@ -344,7 +357,7 @@ Key Takeaways
 
 <tr><td width="30%">
 
-![Slide 18](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_17.jpg)
+![Slide 18](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_18.jpg)
 
 </td><td>
 
@@ -360,7 +373,7 @@ Key Takeaways
 
 <tr><td width="30%">
 
-![Slide 19](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_18.jpg)
+![Slide 19](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_19.jpg)
 
 </td><td>
 
@@ -380,7 +393,7 @@ Key Takeaways
 
 <tr><td width="30%">
 
-![Slide 20](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_19.jpg)
+![Slide 20](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_20.jpg)
 
 </td><td>
 
@@ -400,7 +413,7 @@ Key Takeaways
 
 <tr><td width="30%">
 
-![Slide 21](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_20.jpg)
+![Slide 21](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_21.jpg)
 
 </td><td>
 
@@ -416,7 +429,7 @@ Key Takeaways
 
 <tr><td width="30%">
 
-![Slide 22](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_21.jpg)
+![Slide 22](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_22.jpg)
 
 </td><td>
 
@@ -432,7 +445,7 @@ Key Takeaways
 
 <tr><td width="30%">
 
-![Slide 23](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_22.jpg)
+![Slide 23](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_23.jpg)
 
 </td><td>
 
@@ -455,7 +468,7 @@ Resources
 
 <tr><td width="30%">
 
-![Slide 24](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_23.jpg)
+![Slide 24](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_24.jpg)
 
 </td><td>
 
@@ -474,7 +487,7 @@ Resources
 
 <tr><td width="30%">
 
-![Slide 25](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_24.jpg)
+![Slide 25](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_25.jpg)
 
 </td><td>
 
@@ -492,7 +505,7 @@ Resources
 
 <tr><td width="30%">
 
-![Slide 26](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_25.jpg)
+![Slide 26](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_26.jpg)
 
 </td><td>
 
@@ -509,7 +522,7 @@ Resources
 
 <tr><td width="30%">
 
-![Slide 27](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_26.jpg)
+![Slide 27](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_27.jpg)
 
 </td><td>
 
@@ -526,7 +539,7 @@ Resources
 
 <tr><td width="30%">
 
-![Slide 28](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_27.jpg)
+![Slide 28](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_28.jpg)
 
 </td><td>
 
