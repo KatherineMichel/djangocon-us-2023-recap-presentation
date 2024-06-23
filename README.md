@@ -534,21 +534,6 @@ Resources
 
 </td></tr>
 
-
-<table>
-
-<tr><td width="30%">
-
-![Slide 28](https://speakerd.s3.amazonaws.com/presentations/1701c8c9d8974a57b7187562eeffb930/slide_28.jpg)
-
-</td><td>
-
-### Contact Me
- 
-* Feel free to contact me for more information
-* Thank you, everyone
- 
-</td></tr>
       
 </table>
 
