@@ -12,8 +12,34 @@
 
 ## Slides and Script Table of Contents
 
+- [DjangoCon US 2023 Recap](#djangocon-us-2023-recap)
 - [About Me](#about-me)
-- [Contact Me](#contact-me)
+- [DjangoCon US Website Designs I’ve Been Part Of](#djangocon-us-website-designs-ive-been-part-of)
+- [Conference High Level Details](#conference-high-level-details)
+- [Conference High Level Details](#conference-high-level-details-1)
+- [Travel Serendipity!](#travel-serendipity)
+- [More Travel Serendipity!](#more-travel-serendipity)
+- [Favorite Authors](#favorite-authors)
+- [Finding Purpose in Open Source Through Community Building- Abigail Mesrenyame Dogbe](#finding-purpose-in-open-source-through-community-building--abigail-mesrenyame-dogbe)
+- [What Can the DSF Do For Me? What Can I Do for the DSF? - Chaim Kirby, DSF President](#what-can-the-dsf-do-for-me-what-can-i-do-for-the-dsf---chaim-kirby-dsf-president)
+- [Navigating Django’s Future: Djangonaut Space- Dawn Wages, PSF Chair, Rachell Calhoun, Django Girls Trustee](#navigating-djangos-future-djangonaut-space--dawn-wages-psf-chair-rachell-calhoun-django-girls-trustee)
+- [An Active Approach to Inclusion is More Effective than a Passive One](#an-active-approach-to-inclusion-is-more-effective-than-a-passive-one)
+- [Don’t Buy the “AI” Hype- Tim Allen](#dont-buy-the-ai-hype--tim-allen)
+- [An Approach to Lightweight Tenancy Using Django Rest Framework- Eliana Rosselli](#an-approach-to-lightweight-tenancy-using-django-rest-framework--eliana-rosselli)
+- [Testing Modern Web Apps Like a Champion- Andrew Knight](#testing-modern-web-apps-like-a-champion--andrew-knight)
+- [Inside Out: My Journey of Understanding Inclusion- Natalia Bidart, DSF Fellow](#inside-out-my-journey-of-understanding-inclusion--natalia-bidart-dsf-fellow)
+- [DjangoCon Africa](#djangocon-africa)
+- [DjangoCon US 2023 Stats](#djangocon-us-2023-stats)
+- [Most fun DjangoCon US… Growing Diversity](#most-fun-djangocon-us-growing-diversity)
+- [Some of My Best Conference Tips](#some-of-my-best-conference-tips)
+- [Where Next?](#where-next)
+- [Board Dinner at Parizade](#board-dinner-at-parizade)
+- [Speaker and Organizer Dinner at The Pit](#speaker-and-organizer-dinner-at-the-pit)
+- [In Closing](#in-closing)
+- [Sarah P. Duke Gardens](#sarah-p-duke-gardens)
+- [Dinner with Django Creators, Former DSF President, and Wharton School Friends](#dinner-with-django-creators-former-dsf-president-and-wharton-school-friends)
+- [Duke Chapel](#duke-chapel)
+- [The Museum of Life and Science](#the-museum-of-life-and-science)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
