@@ -2,11 +2,20 @@
 
 ## Table of Contents
 
+- [About](#about)
 - [Slides and Script Table of Contents](#slides-and-script-table-of-contents)
 - [Slides and Script](#slides-and-script) 
 - [Attribution](#attribution)
 - [Contact Kati](#contact-kati)
 - [Copyright](#copyright)
+
+<hr>
+
+## About
+
+Slides and script for a talk by Katherine "Kati" Michel [Fosstodon](https://fosstodon.org/@kati), [GitHub](https://github.com/KatherineMichel) based on a [DjangoCon US 2023 Recap blog post](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html).
+ 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
 
